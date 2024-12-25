@@ -1,2 +1,3 @@
 #Archivos que no serán en repositorio
-
+mongodata/journal/
+mycode/node_modules/
