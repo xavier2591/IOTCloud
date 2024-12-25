@@ -46,7 +46,7 @@ services:
     links:
       - mongo
     extra_hosts:
-      - "localhost:192.168.0.105"
+      - "localhost:172.25.64.1"
     environment: 
       
       EMQX_NAME: redSensores-gl-p65
